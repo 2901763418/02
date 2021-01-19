@@ -1,6 +1,6 @@
 // 签名：com.g1013175107.hag
 // 签名：a304b4751d737b859dc48841e9140973
-var fx_gurl = 'http://test.52jscn.com/';
+var fx_gurl = 'https://bbs.i5xcx.com/';
 var fx_url = fx_gurl + 'index.php/';
 var html_win = 'widget://html/';
 var _token=$api.getStorage('token');

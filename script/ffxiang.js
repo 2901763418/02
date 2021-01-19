@@ -1,4 +1,4 @@
-var fx_gurl = 'http://test.52jscn.com/';
+var fx_gurl = 'https://bbs.i5xcx.com/';
 var fx_cdn = 'http://qiniu.123444.cn/';
 //var fx_gurl = 'http://192.168.1.105:8002/';
 //var fx_cdn = 'http://192.168.1.105:8002/';
@@ -50,7 +50,7 @@ var config_json = {
 		"shouxufei": "3%"
 	},
 	"config": {
-		"url": "http://test.52jscn.com",
+		"url": "https://bbs.i5xcx.com",
 		"title": "【小赚头条】为你私人定制的资讯客户端",
 		"dtitle": "小赚头条",
 		"logo": "/public/uploads/20170127/49a890dd7936d393476883091014dbb4.png",

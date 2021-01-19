@@ -11,7 +11,7 @@
 // +----------------------------------------------------------------------
 // | Copyright (c) 2018-2019 http://www.baidu.com/ All rights reserved.
 // +----------------------------------------------------------------------
-var fx_gurl = 'http://test.52jscn.com/';
+var fx_gurl = 'https://bbs.i5xcx.com/';
 var fx_cdn = 'http://qiniu.123.cn/';
 var fx_url = fx_gurl + 'index.php/';
 var muban = ($api.getStorage('muban') ? $api.getStorage('muban') : 'toutiao') + '/';
